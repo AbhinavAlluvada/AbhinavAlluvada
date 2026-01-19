@@ -1,24 +1,60 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Laying unshakeable foundations in C++, Data Structures & Algorithms, and core computer science (operating systems, memory, concurrency). My focus is correctness first, performance second, and shortcuts never.<br><br>👯 I’m looking to collaborate on<br>Projects that deepen understanding rather than inflate résumés:<br>systems-oriented C++ projects, algorithm-heavy problem solving, backend or infrastructure-style tools, and learning-by-building experiments that reveal how things actually work under the hood.<br><br>🤝 I’m looking for help with<br>Refining problem-solving intuition, spotting flawed reasoning early, and learning how strong engineers think about trade-offs, scale, and failure modes in real systems.<br><br>🌱 I’m currently learning<br>Advanced C++, DSA patterns, Operating Systems, and gradually expanding into AI/ML from a systems perspective—not as magic, but as engineered systems that run on hardware, memory, and code.<br><br>💬 Ask me about<br>C++ internals, algorithmic thinking, debugging logic errors, system design fundamentals, or how to study difficult technical subjects without lying to yourself.<br><br>⚡ Fun fact<br>I optimize for depth before speed. It’s slower at the start—but it compounds brutally over time.<br><br>🎯 North Star<br>To become a highly skilled, self-reliant AI Systems Engineer who understands software from silicon to systems to models—capable of designing, building, and debugging complex real-world systems independently, with the problem-solving rigor expected at top-tier engineering teams.
+# 💫 About Me
 
+🔭 **Currently working on**  
+Building strong foundations in **C++**, **Data Structures & Algorithms**, and **core computer science** (operating systems, memory, concurrency), with an emphasis on correctness, clarity, and performance.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abhinav Alluvada) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhinav.alluvada@gmail.com) 
+👯 **Looking to collaborate on**  
+Systems-oriented C++ projects, algorithm-intensive problem solving, and backend or infrastructure-style tools that prioritize understanding over polish.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AbhinavAlluvada&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AbhinavAlluvada&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavAlluvada&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🤝 **Looking for help with**  
+Developing deeper problem-solving intuition, identifying flawed reasoning early, and learning how experienced engineers evaluate trade-offs in real systems.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AbhinavAlluvada&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+🌱 **Currently learning**  
+Advanced C++, DSA patterns, Operating Systems, and AI/ML from a systems-first perspective.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+💬 **Ask me about**  
+C++ internals, algorithmic thinking, debugging logic errors, and studying complex technical subjects rigorously.
+
+🎯 **North Star**  
+To become a self-reliant **AI Systems Engineer** capable of designing, building, and debugging complex real-world systems from low-level fundamentals to high-level models.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AbhinavAlluvada&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Socials
+[LinkedIn](https://linkedin.com/in/AbhinavAlluvada) • [Email](mailto:abhinav.alluvada@gmail.com)
+
+---
+
+## 💻 Tech Stack
+
+**Languages**
+- C++
+- Python
+
+**Systems & Tools**
+- Git
+- GitHub
+- Bash
+- Windows Terminal
+
+**Databases**
+- MySQL
+- MongoDB
+
+**AI / Data (working knowledge)**
+- NumPy
+- Pandas
+- PyTorch
+- scikit-learn
+- Matplotlib
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhinavAlluvada&theme=dark&hide_border=false)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=AbhinavAlluvada&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavAlluvada&theme=dark&hide_border=false&layout=compact)
+
+---
+
+> *“The goal is not to write code that works, but to understand why it works — and when it won’t.”*
