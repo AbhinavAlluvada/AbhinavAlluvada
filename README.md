@@ -32,7 +32,7 @@ To become a self-reliant **AI Systems Engineer** capable of designing, building,
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhinavAlluvada&theme=dark&hide_border=false)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=AbhinavAlluvada&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=AbhinavAlluvada&theme=dark&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavAlluvada&theme=dark&hide_border=false&layout=compact)
 
 ---
