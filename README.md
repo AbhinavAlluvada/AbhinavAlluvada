@@ -34,14 +34,11 @@ To become a self-reliant **AI Systems Engineer** capable of designing, building,
 ---
 
 # 📊 GitHub Stats:
+<center>
 ![](https://github-readme-stats.vercel.app/api?username=AbhinavAlluvada&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![GitHub Streak](https://streak-stats.demolab.com?user=AbhinavAlluvada&theme=dark)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavAlluvada&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+</center>
 ---
 [![](https://visitcount.itsvg.in/api?id=AbhinavAlluvada&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
 
