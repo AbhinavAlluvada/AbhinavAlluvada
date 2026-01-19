@@ -33,7 +33,15 @@ To become a self-reliant **AI Systems Engineer** capable of designing, building,
 > *“The goal is not to write code that works, but to understand why it works — and when it won’t.”*
 ---
 
-# 📊 GitHub Stats: ![](https://github-readme-stats.vercel.app/api?username=AbhinavAlluvada&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=AbhinavAlluvada&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavAlluvada&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhinavAlluvada&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavAlluvada&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
 ---
 
