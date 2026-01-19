@@ -33,15 +33,15 @@ To become a self-reliant **AI Systems Engineer** capable of designing, building,
 > *“The goal is not to write code that works, but to understand why it works — and when it won’t.”*
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AbhinavAlluvada&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AbhinavAlluvada&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavAlluvada&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhinavAlluvada&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=AbhinavAlluvada&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavAlluvada&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
