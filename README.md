@@ -30,6 +30,9 @@ To become a self-reliant **AI Systems Engineer** capable of designing, building,
 
 ---
 
+> *“The goal is not to write code that works, but to understand why it works — and when it won’t.”*
+---
+
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhinavAlluvada&theme=dark&hide_border=false)
 ![GitHub Streak](https://streak-stats.demolab.com?user=AbhinavAlluvada&theme=dark&hide_border=false)
@@ -37,4 +40,3 @@ To become a self-reliant **AI Systems Engineer** capable of designing, building,
 
 ---
 
-> *“The goal is not to write code that works, but to understand why it works — and when it won’t.”*
