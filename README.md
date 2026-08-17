@@ -1,6 +1,6 @@
 # 💫 About Me    
 
-🔭 **Currently working on**  
+🔭 **Currently working on**   
 Building strong foundations in **C++**, **Data Structures & Algorithms**, and **core computer science** (operating systems, memory, concurrency), with an emphasis on correctness, clarity, and performance.
 
 👯 **Looking to collaborate on**  
